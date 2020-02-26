@@ -1,0 +1,12 @@
+{
+  "name": "@pyramid-blocks/from1",
+  "version": "0.0.1",
+  "description": "from1",
+  "main": "src/index.tsx",
+  "scripts": {
+    "dev": "umi dev"
+  },
+  "dependencies": {
+  },
+  "license": "MIT"
+}

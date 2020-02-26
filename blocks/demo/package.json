@@ -1,0 +1,12 @@
+{
+  "name": "{{blockPackageFileName}}",
+  "version": "0.0.1",
+  "description": "{{blockPackageContent}}",
+  "main": "src/index.tsx",
+  "scripts": {
+    "dev": "umi dev"
+  },
+  "dependencies": {
+  },
+  "license": "MIT"
+}

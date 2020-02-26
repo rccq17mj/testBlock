@@ -1,0 +1,40 @@
+{
+    "blockPackageName": "block01",
+    "blockPackageChineseName": "block01",
+    "blockPackageType": "pc",
+    "blockPackageGitUrl": "http://10.10.11.151:10080/product/bigdata-cloudplatform/templet/pyramid-blocks",
+    "blockPackageCover": "",
+    "blockPackageRemark": "",
+    "category": { "blocks": ["from", "button"], "templates": [] },
+    "blocks": [
+        {
+            "key": "",
+            "name": "",
+            "description": "",
+            "gitUrl": "http://10.10.11.151:10080/product/bigdata-cloudplatform/templet/pyramid-blocks/tree/master",
+            "previewImg": "",
+            "previewUrl": "",
+            "tags": []
+        },
+        {
+            "key": "from1",
+            "name": "from1",
+            "description": "from1",
+            "gitUrl": "http://10.10.11.151:10080/product/bigdata-cloudplatform/templet/pyramid-blocks/tree/master/blocks/from1",
+            "previewImg": "",
+            "previewUrl": "/blocks/from1",
+            "tags": ["from"]
+        }
+    ],
+    "templates": [
+        {
+            "key": "",
+            "name": "",
+            "description": "",
+            "gitUrl": "http://10.10.11.151:10080/product/bigdata-cloudplatform/templet/pyramid-blocks/tree/master",
+            "previewImg": "",
+            "previewUrl": "",
+            "tags": []
+        }
+    ]
+}

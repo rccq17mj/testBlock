@@ -1,0 +1,15 @@
+{
+  "name": "{{blockPackageFileName}}",
+  "version": "0.0.1",
+  "description": "{{blockPackageContent}}",
+  "license": "ISC",
+  "main": "src/index.tsx",
+  "scripts": {
+    "dev": "umi dev"
+  },
+  "dependencies": {
+  },
+  "blockConfig": {
+    "specVersion": "0.1"
+  }
+}
